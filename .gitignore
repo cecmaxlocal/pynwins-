@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/pynwins
+pynwins.so
+pynwins.dylib
+pynwins.dll
+pynwins.a
+pynwins.lib
+pynwins-test-*
+*.exe
+*.o
+*.obj
+*.lst

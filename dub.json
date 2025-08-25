@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Denis"
+	],
+	"copyright": "Copyright ® 2025, Denis",
+	"description": "A lightweight, extensible, and modern desktop Integrated Development Environment (IDE) built with Python. PyNwins+ is designed for polyglot programmers who frequently switch between dynamic and compiled languages, offering a streamlined and unified workflow.",
+	"license": "MIT",
+	"name": "pynwins"
+}

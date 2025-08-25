@@ -9,7 +9,8 @@
         "raku",
         "Remotors",
         "venv",
-        "Wextra"
+        "Wextra",
+        "writeln"
     ],
     "Lua.diagnostics.globals": [
         "wait",
