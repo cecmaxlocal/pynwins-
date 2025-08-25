@@ -42,7 +42,7 @@ PyNwins+ provides first-class support for a variety of popular languages, with f
 
 The repository is organized to separate concerns, making it easy to navigate and contribute.
 
-```
+
 /.pynwins+/
 ├── README.md           # You are here!
 ├── bin/
@@ -59,7 +59,7 @@ The repository is organized to separate concerns, making it easy to navigate and
 │   └── locale/         # Portuguese language files (localization)
 ├── requirements.txt    # Project dependencies
 └── ...                 # Configuration files (e.g., .editorconfig, .gitignore)
-```
+
 
 ## 🚀 Getting Started
 
