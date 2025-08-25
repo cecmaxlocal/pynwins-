@@ -1,0 +1,11 @@
+#!/usr/bin/env raku
+
+use v6;
+use strict;
+
+# Test the analyze-document function
+sub test-analyze-document() {
+    my $result = analyze-document("Test Document");
+    say $result;  # Expected: "Analysis result for Test Document"
+}
+

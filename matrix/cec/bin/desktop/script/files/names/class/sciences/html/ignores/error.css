@@ -1,0 +1,5 @@
+/* Error styles for science-related documents */
+.error {
+    color: red;
+    font-weight: bold;
+}

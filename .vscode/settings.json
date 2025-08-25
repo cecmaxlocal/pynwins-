@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "Dlang",
+        "ifndef",
+        "LBLIBS",
+        "Nwins",
+        "pynwins",
+        "pytest",
+        "raku",
+        "Remotors",
+        "venv",
+        "Wextra"
+    ],
+    "Lua.diagnostics.globals": [
+        "wait",
+        "sections",
+        "x"
+    ]
+}

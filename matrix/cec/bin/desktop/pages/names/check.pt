@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Matrix CEC - Name Check</title>
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    <link rel="stylesheets" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Matrix CEC - Name Check</h1>
+    </header>
+    <main>
+        <h2>Check Names</h2>
+        <p>This is a sample layout for the Name Check page.</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Matrix CEC</p>
+    </footer>
+</body>
+</html>
